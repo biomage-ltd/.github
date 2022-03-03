@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 If you are looking for the source code of Cellenics, go to: https://github.com/hms-dbmi-cellenics
-If you want to know more about what we do at Biomage, go to: https://www.biomage.net/
 
 <!--
 
