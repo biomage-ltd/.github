@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+If you are looking for the source code of Cellenics, go to: https://github.com/hms-dbmi-cellenics
 <!--
 
 **Here are some ideas to get you started:**
